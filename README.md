@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.svg" alt="Gem Search — a rainbow spider that follows the evidence" width="100%"></p>
+<p align="center"><img src="docs/banner.svg" alt="Gem Search - a rainbow spider that follows the evidence" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/h100envy/gem-search/actions/workflows/ci.yml"><img src="https://github.com/h100envy/gem-search/actions/workflows/ci.yml/badge.svg" alt="Checks"></a>
@@ -140,7 +140,7 @@ The local engine must stay running. If it is offline, up to 200 captured posts r
 
 ## Give it four Grok perspectives
 
-<p align="center"><img src="docs/grok-seats.svg" alt="Lookout, Maker, Skeptic and Runner — four evidence-bound Grok reviewers" width="100%"></p>
+<p align="center"><img src="docs/grok-seats.svg" alt="Lookout, Maker, Skeptic and Runner - four evidence-bound Grok reviewers" width="100%"></p>
 
 Add your key **locally** to `.env`, then restart the engine:
 
